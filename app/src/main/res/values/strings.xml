@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">assignment12</string>
+    <string name="api_key">AIzaSyBpM1toUgAErosQZ1FjQ691naNTDznGkBE</string>
+    <string name="api_key_places">AIzaSyBpM1toUgAErosQZ1FjQ691naNTDznGkBE</string>
+
+    <array name="views">
+        <item>normal</item>
+        <item>satellite</item>
+        <item>terrain</item>
+    </array>
+</resources>
